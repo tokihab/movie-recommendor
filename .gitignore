@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# LaTeX auxiliary files (from your docs)
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.out
+*.fls
+
+# Raw datasets (keeps the repo size down)
+data/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+models/recommender_model.pkl
