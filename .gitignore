@@ -25,4 +25,4 @@ data/*.csv
 # OS generated files
 .DS_Store
 Thumbs.db
-models/recommender_model.pkl
+models
